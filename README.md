@@ -16,3 +16,5 @@ Compile the code using:
 >>
 gcc calculator.c 
 ./a.out
+
+https://github.com/shahanashub/simple_calculator_using_c.git
